@@ -1,8 +1,4 @@
 # react-native-open-maps
-[![build status](https://img.shields.io/travis/com/brh55/react-native-open-maps/main?style=flat-square)](https://app.travis-ci.com/github/brh55/react-native-open-maps)
-[![coverage](https://img.shields.io/coveralls/github/brh55/react-native-open-maps?style=flat-square)](https://coveralls.io/github/brh55/react-native-open-maps)
-[![npm](https://img.shields.io/npm/dt/react-native-open-maps.svg?style=flat-square)](https://www.npmjs.com/package/react-native-open-maps)
-
 > 🗺 A simple cross-platform library to help perform map actions to the corresponding device's map (Google, Apple, or Yandex Maps)
 
 `react-native-open-maps` works by creating a universal map link for either Apple, Google, and Yandex maps that can be used to open up the relevant map application. In order to maximize compatibility some platform specific parameters are omitted, but simplifies development efforts and ensures a smooth user experience.
@@ -12,8 +8,6 @@
 - ✅ Create a delayed invoked `function` that will open the map
 - ✅ Create a `string` of the map link
 - ✅ Cross-compatible properties among different map applications
-
-![New Demo Preview](http://g.recordit.co/0IPl516Adc.gif)
 
 ## Usage
 1. Install the repository
@@ -180,13 +174,3 @@ Your changes should not cause unexpected behaviors or warnings.
 ### Run Test Suite
 1. `npm test`
 
-## License
-MIT © [Brandon Him](https://github.com/brh55/react-native-open-maps)
-
-## Shameless Plug 🔌
-If you like this repository, check out my other react-native projects or follow me for other open-source projects:
-
-- **[react-native-masonry](https://github.com/brh55/react-native-masonry)**: A pure JS react-native component to render a masonry~ish layout for images with support for dynamic columns, progressive image loading, device rotation, on-press handlers, and headers/captions.
-- **[react-native-hero](https://github.com/brh55/react-native-hero)**: A super duper easy hero unit react-native component with support for dynamic image, dynamic sizing, color overlays, and more
-- **[rn-component-cookbook](https://github.com/brh55/rn-component-cookbook)**: A open-source cookbook with recipes for handling everyday issues when building robust, modular react-native components
-- **[generator-rnc](https://github.com/brh55/generator-rnc)**: A yeoman generator to scaffold a ready-to-go, open-source react-native component (Jest, Package dependencies, Travis, etc)

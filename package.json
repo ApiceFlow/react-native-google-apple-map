@@ -24,16 +24,7 @@
     "index.js",
     "index.d.ts"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/brh55/react-native-open-maps.git"
-  },
-  "homepage": "https://github.com/brh55/react-native-open-maps#readme",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/brh55/react-native-open-maps/issues"
-  },
-  "author": "Brandon Him",
+  "author": "Dmytro Doroftiei",
   "devDependencies": {
     "@babel/core": "^7.12.9",
     "@babel/runtime": "^7.12.5",
