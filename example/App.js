@@ -5,7 +5,6 @@
  * @format
  * @flow strict-local
  */
-
 import React from 'react';
 import type {Node} from 'react';
 import {
@@ -19,7 +18,6 @@ import {
   Button,
   TouchableOpacity
 } from 'react-native';
-
 import {
   createOpenLink
 } from './LocalTest';
